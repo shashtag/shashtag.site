@@ -5,7 +5,8 @@ export default [
     description: (
       <span>
         This website - <b>japaneese card giving tradition</b>, smooth
-        animations, micro-animations, responsive design.
+        animations, micro-animations, responsive design. Generated the hands
+        using <b>AI (Midjourney)</b> and the Photoshoped it to get the cutout.
       </span>
     ),
     tech: "Vite, Framer Motion, Midjourney(AI), Photoshop",
