@@ -4,6 +4,7 @@ import Education from "../Components/Education.jsx";
 import PersonalProjects from "../Components/PersonalProjects/PersonalProjects.jsx";
 import OpenSourceContributions from "../Components/OpenSource/OpenSource.jsx";
 import AchievementsAndCertificates from "../Components/AchievementsAndCertificates/AchievementsAndCertificates.jsx";
+import Freelance from "../Components/FreelanceWork/Freelance.jsx";
 
 export default [
   {
@@ -20,6 +21,11 @@ export default [
     component: Education,
     path: "/education",
     text: "Education",
+  },
+  {
+    component: Freelance,
+    path: "/freelance-work",
+    text: "Freelance Work",
   },
   {
     component: PersonalProjects,
